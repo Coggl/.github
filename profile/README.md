@@ -1,2 +1,5 @@
 # Coggl ⚙️
-Welcome to **Coggl ⚙️,** a development community focused on building open-source tools for the modern web. Ready to find out more? Visit out repositories and join the discussion!
+Welcome to **Coggl ⚙️,** a development community focused on building open-source tools such as **Payload and AJDM** for the modern web.
+
+> [!NOTE]
+> Ready to find out more? Visit our repositories to see what we are currently working on.
